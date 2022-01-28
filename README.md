@@ -1,4 +1,4 @@
 # hello-world
 creating a new repository
 
-I am an economics student at LSE
+I am a BSC economics student at LSE 
